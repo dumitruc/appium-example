@@ -1,0 +1,20 @@
+{
+   "screens" :
+      [
+         {
+            "screen-name" : "Login",
+            "elementsXPath" :
+               {
+                  "editPassCode" : "////",
+                  "loginButton" : "///"
+               }
+         },
+         {
+            "screen-name" : "Cards",
+            "elementsXPath" :
+               {
+                  "sendPaymentButton" : "////"
+               }
+         }
+      ]
+}

@@ -1,0 +1,11 @@
+{
+   "welcomeScreen" :
+      [
+         {
+            "welcomePart1" : "Welcome to the App"
+         },
+         {
+            "welcomePart2" : "Sign up to use this app"
+         }
+      ]
+}

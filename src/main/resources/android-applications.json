@@ -1,0 +1,10 @@
+[
+   {
+      "name" : "Application Name",
+      "description" : "Application description",
+      "apkFullPath" : "full/path/app.apk",
+      "designatedDeviceType" : "Android",
+      "appPackage" : "com.company.app.package",
+      "appActivity" : "start.the.app.activity"
+   }
+]
